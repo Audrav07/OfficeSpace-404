@@ -1,7 +1,7 @@
 # OfficeSpace
 
 ## Overview
-OfficeSpace is an application that makes it easy for businesses to manage their clients and securly send and receive large documents. This website demonstrates a full stack application with a component based front end using ReactJS and Reactstrap for styling. The backend is implemented using Node.js, AWS, nodemailer, mongoDB, mongoose, and express. 
+OfficeSpace is an application that makes it easy for businesses to manage their clients and securely send and receive large documents. This website demonstrates a full stack application with a component based front end using ReactJS and Reactstrap for styling. The backend is implemented using Node.js, AWS, nodemailer, mongoDB, mongoose, and express. 
 <img src="./demo/mac-laptop-png-13.gif" width="500px" height="300px"/>
 
 The application is separated into Admin and Client sides to demonstrate the send/receive file functionality. Companies have the ability to sign up clients through the website which sends a confirmation email to the client that gives them a specific password to use the app. 
